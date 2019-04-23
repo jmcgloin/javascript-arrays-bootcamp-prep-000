@@ -19,4 +19,4 @@ function destructivelyAddElementToEndOfArray(array, el) {
 }
 
 destructivelyAddElementToBeginningOfArray([1,2], "hi");
-addElementToBeginningOfArray([1,2], "hi");
+destructivelyAddElementToEndOfArray(1,2], "hi");
