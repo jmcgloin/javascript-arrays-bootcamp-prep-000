@@ -18,5 +18,5 @@ function destructivelyAddElementToEndOfArray(array, el) {
   console.log(array);
 }
 
-destructivelyAddElementToBeginningOfArray([1,2], "hi");
+destructivelyAddElementToBeginningOfArray([1], 'foo');
 destructivelyAddElementToEndOfArray([1,2], "hi");
